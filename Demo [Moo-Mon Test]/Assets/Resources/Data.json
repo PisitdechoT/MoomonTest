@@ -1,0 +1,46 @@
+{
+  "character": [
+    {
+      "id": 1,
+      "image": "pig01",
+      "attack": 10,
+      "level": 24,
+      "HP": 200,
+      "speed": 3
+    },
+    {
+      "id": 2,
+      "image": "human",
+      "attack": 10,
+      "level": 27,
+      "HP": 240,
+      "speed": 3
+    },
+    {
+      "id": 3,
+      "image": "pig02",
+      "attack": 10,
+      "level": 12,
+      "HP": 100,
+      "speed": 3
+    },
+    {
+      "id": 4,
+      "image": "pig03",
+      "attack": 10,
+      "level": 13,
+      "HP": 140,
+      "speed": 3
+    },
+    {
+      "id": 5,
+      "image": "pig04",
+      "attack": 10,
+      "level": 14,
+      "HP": 100,
+      "speed": 3
+    }
+  ],
+  "skill": [],
+  "buff": []
+}
